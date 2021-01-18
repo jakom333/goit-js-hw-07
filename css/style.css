@@ -20,3 +20,8 @@
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+input:active,
+input:focus {
+  outline: none;
+}
